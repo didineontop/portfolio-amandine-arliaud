@@ -238,7 +238,18 @@ className={`p-6 rounded-2xl shadow-lg w-64 transition duration-300 cursor-pointe
         <p className="text-justify">
           Cette première immersion dans la recherche m'a permis de découvrir les applications concrètes de l'édition génomique et de développer une approche rigoureuse du travail expérimental. Elle a renforcé mon intérêt pour les biotechnologies et la génétique moléculaire.
         </p>
+<div className="mt-6 pt-4 border-t">
 
+  <a
+    href="/compterendus/rapportinrae.pdf"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-blue-600 underline hover:text-blue-800"
+  >
+    📄 Consulter le rapport de stage
+  </a>
+
+</div>
       </div>
 
     </div>
