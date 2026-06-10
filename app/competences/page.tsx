@@ -510,7 +510,7 @@ Les effets de l'inhibition de l'expression du gène Xlox sur le développement e
         </p>
 
        <a
-  href="/compterendus/ARLIAUDAmandine_StageS4 copie.pdf"
+  href="/compterendus/rapportinrae.pdf"
   target="_blank"
   className="text-blue-600 underline"
 >
